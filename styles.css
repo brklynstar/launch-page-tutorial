@@ -1,0 +1,27 @@
+body {
+    color: rgb(0, 0, 0);
+  }
+
+
+  .navbar {
+    padding: 1rem;
+    background-color: blue;
+  }
+
+  .btn-primary:hover {
+    background-color: blue;
+    color: white;
+  }
+
+
+.jumbotron {
+    background-image: url("karl-kohler-odC1vXwi0dM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top:200px;
+    padding-bottom:200px;
+  }
+
+  
+
